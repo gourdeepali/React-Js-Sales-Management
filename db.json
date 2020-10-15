@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "head phone",
+      "price": "1000",
+      "quantity": 50,
+      "img": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "discription": "this ia a very usefull product With its customised Knowles balanced armature and 11 mm dynamic drivers, this headset produces clear and undistorted sound with harmonised bass and treble. Its ACAA (Astria Coaxial Acoustic Architecture) helps produce an expansive soundstage with excellent detail and depth. "
+    },
+    {
+      "id": 2,
+      "name": "shoes",
+      "price": "3000",
+      "quantity": 10,
+      "img": "https://images.unsplash.com/photo-1560343090-f0409e92791a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80",
+      "discription": "this ia a very comfortable product Wipe with a clean, dry cloth to remove dust,Do not wash with detergent or in washing machine This pair of sneakers will add a cool appeal to your overall casual look. Made from synthetic upper and lining along with grooved Airmix sole for comfort and durability, this low-cut pair will go well with a T-shirt and denims."
+    },
+    {
+      "id": 3,
+      "name": "Mouse",
+      "price": "300",
+      "quantity": 130,
+      "img": "https://images.unsplash.com/photo-1527814050087-3793815479db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=628&q=80",
+      "discription": "To furnish the varying desires of our customers, we are immersed in offering a world class consignment of Smacc High Quality Wireless Mouse. Features: Customized Reliable Fine finish Durable Specification: Sleek Design similar to Apple Mouse 1,000 DPI optical sensor provides improved accuracy and precise mouse movements The wheel provides easy scrolling and added convenience of an extra button Digital wheel key switch technology 2.4 Ghz Wireless Mouse Nano Receiver Hidden in the Mouse Button Plug and Play, Compact, USB Interface Ergonomic design to support contour of palm for both right and left hand user Advance optical sensor for accurate positioning Compatible with Windows 8, 7, Vista, XP, Linux Intelligent Power Saving Design SMACC Wireless 3D Optical Mouse A mouse typically controls the motion of a pointer in two dimensions in a graphical user interface (GUI Cordless or wireless mice transmit data via infrared radiation (see IrDA) or radio (including Bluetooth and Wi-Fi). Compatible with Windows 8, 7, Vista, XP, Linux Intelligent Power Saving Design Request Callback Other Details:"
+    },
+    {
+      "name": "Bottle",
+      "price": "250",
+      "quantity": "20",
+      "img": "https://images.unsplash.com/photo-1589365278144-c9e705f843ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "discription": "https://images.unsplash.com/photo-1589365278144-c9e705f843ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "id": 4
+    },
+    {
+      "name": "tv",
+      "price": "250000",
+      "quantity": "200",
+      "img": "https://images.unsplash.com/photo-1461151304267-38535e780c79?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=890&q=80",
+      "discription": "best television ever...",
+      "id": 5
+    },
+    {
+      "name": "watch",
+      "price": "2000",
+      "quantity": "70",
+      "img": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=759&q=80",
+      "discription": "looks good..!",
+      "id": 6
+    }
+  ],
+  "SR": [
+    {
+      "id": 1,
+      "name": "Deepali Gour",
+      "designation": "Senior sales representative",
+      "division": "zone 1",
+      "manager": "Subrat",
+      "total_sale": 20,
+      "img": "",
+      "rating": 4,
+      "items": [
+        {
+          "date": "20-10-2020",
+          "product": "head phone",
+          "quantity": 10,
+          "id": 1
+        }
+      ]
+    }
+  ]
+}
